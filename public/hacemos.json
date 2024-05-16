@@ -1,0 +1,58 @@
+{
+    "titulo": {
+        "es": "Que Hacemos?",
+        "en": "What do we do?"
+    },
+    "subtitulo": {
+        "es": "Como ministerio nosotros....",
+        "en": "As a ministry we..."
+    },
+
+
+
+    "mision":{
+        "titulo": {
+            "es": "Misión",
+            "en": "Mission"
+        },
+        "descripcion": {
+            "es": "El proposito del ministerio internacional JESUS PAN DE VIDA es llevar a las persona al conocimiento de Jesucristo, y que sus vidas sean transformadas, pasando de las tinieblas a su luz admirable.",
+            "en": "The purpose of the international JESUS ​​BREAD OF LIFE ministry is to bring people to the knowledge of Jesus Christ, and for their lives to be transformed, moving from darkness to his admirable light."
+        }
+    },
+
+
+    "vision":{
+        "titulo": {
+            "es": "Visión",
+            "en": "Vision"
+        },
+        "descripcion": {
+            "es": "El ministerio intercional jesus pan de vida, tiene como vision extenderse a todo el mundo.",
+            "en": "The international ministry Jesus bread of life has the vision of extending to the entire world."
+        }
+    },
+
+    "objetivos":{
+        "titulo": {
+            "es": "Objetivos",
+            "en": "Goals"
+        },
+        "descripcion1": {
+            "es": "Implementar estrategias de evangelizacion, tanto para los niños, jovenes y adultos en la Republica Dominicana y el mundo.",
+            "en": "Implement evangelization strategies, both for children, youth and adults in the Dominican Republic and the world."
+        },
+        "descripcion2": {
+            "es": "Conectar con hombres y mujeres llamados por Dios, de cualquier denominacion, en todo el mundo, que tengan como objetivo unico y absoluto predicar el evangelio de jesucristo.",
+            "en": "Connect with men and women called by God, of any denomination, throughout the world, whose sole and absolute objective is to preach the gospel of Jesus Christ."
+        },
+        "descripcion3": {
+            "es": "Proveer a la sociedad del mundo, afectada por la pobreza, aliviando asi sus necesidades con recursos como juguetes, utiles escolares, ropa, zapatos y medicamentos, a travez de operativos medicos.",
+            "en": "Provide society around the world, affected by poverty, thus alleviating their needs with resources such as toys, school supplies, clothing, shoes and medicines, through medical operations."
+        },
+        "verso": {
+            "es": "Marcos 16:15-16 dice: “Y les dijo: Id por todo el mundo y predicad el evangelio a toda criatura. El que creyere y fuere bautizado, será salvo; mas el que no creyere, será condenado.”",
+            "en": "“Mark 16:15-16 said: And He said to them, “Go into all the world and preach the gospel to every creature. He who believes and is baptized will be saved; but he who does not believe will be condemned.”"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "titulo": {
+        "es": "Quieres formar parte del ministerio?",
+        "en": "Do you want to be part of the ministry?"
+    },
+    "subtitulo": {
+        "es": "Si estas interesado en formar parte del ministerio existen dos maneras en las cuales puedes hacerlo.",
+        "en": "If you are interested in being part of the ministry, there are two ways in which you can do it."
+    },
+    "descripcion": {
+        "es": "Puedes hacerlo atravez de las donaciones, sea en efectivo o de alguna ayuda de comida y juguetes.",
+        "en": "You can do it through donations, whether in cash or some help with food and toys."
+    },
+    "descripcion2": {
+        "es": "Puedes formar parte de los viajes misioneros que se hacen todos los anos y vivir de primera mano la experiencia que es bendecir a otros.",
+        "en": "You can be part of the mission trips that take place every year and live first-hand the experience of blessing others."
+    }
+    
+}
