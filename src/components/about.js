@@ -30,7 +30,7 @@ export default function About() {
                         </div>
 
                         <div className="grid grid-cols-2 gap-4 mt-8">
-                            <img className="w-full rounded-lg" src="/children.jpg" alt="office content 1" />
+                            <img className="w-full rounded-lg" src="/america5.jpg" alt="office content 1" />
                             <img className="mt-4 w-full lg:mt-10 rounded-lg" src="/america.jpeg" alt="office content 2" />
                         </div>
                     </div>

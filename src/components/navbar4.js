@@ -51,7 +51,7 @@ export default function App() {
             <img src="/logo5.png " className="w-[40px] h-[40px] mr-2" />
           </div>
           <Link href="/">
-            <p color="foreground" className="font-bold text-inherit hover:text-yellow-400">Jesus Pan de Vida </p>
+            <p color="foreground" className="font-bold text-inherit hover:text-yellow-400">Ministerio Internacional Jesus Pan de Vida </p>
           </Link>
         </NavbarBrand>
       </NavbarContent>
@@ -62,7 +62,7 @@ export default function App() {
             <img src="/logo5.png " className="w-[40px] h-[40px] mr-2" />
           </div>
           <Link href="/">
-            <p color="foreground" className="font-bold text-inherit">Jesus Pan de Vida </p>
+            <p color="foreground" className="font-bold text-inherit">Ministerio Internacional Jesus Pan de Vida </p>
           </Link>
         </NavbarBrand>
         <NavbarItem>
@@ -81,13 +81,13 @@ export default function App() {
           </Link>
         </NavbarItem>
         <NavbarItem >
-          <Link color="foreground" href="/#galeria" className="hover:text-yellow-400">
+          <Link color="foreground" href="/#contacto" className="hover:text-yellow-400">
           Contacto
           </Link>
         </NavbarItem>
        
         <NavbarItem>
-          <Link color="foreground" href="/#contacto" className="hover:text-yellow-400">
+          <Link color="foreground" href="/#galeria" className="hover:text-yellow-400">
             Galeria
           </Link>
         </NavbarItem>

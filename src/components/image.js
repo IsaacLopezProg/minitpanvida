@@ -24,41 +24,41 @@ export default function Image() {
                     // className="mySwiper"
                     >
                     <SwiperSlide >
-                        <div className="min-h-screen w-full flex justify-center items-center bg-cover bg-center bg-[url('/caridad1.jpg')] ">
+                        <div className="min-h-screen w-full flex justify-center items-center bg-cover bg-center bg-[url('/back1.jpg')] ">
 
                             <div className="p-8 bg-gray-600/50 rounded-2xl sm:m-0 mx-8 ">
                                 <p className="text-center text-xl md:text-4xl text-white ">
-                                    Ministerio Jesus Pan de Vida
+                                    Ministerio Internacional Jesus Pan de Vida
                                 </p>
                             </div>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <div className="min-h-screen w-full flex justify-center items-center bg-cover bg-center bg-[url('/caridad2.jpg')] ">
+                        <div className="min-h-screen w-full flex justify-center items-center bg-cover bg-center bg-[url('/back2.jpg')] ">
 
                             <div className="p-8 bg-gray-600/50 rounded-2xl sm:m-0 mx-8 ">
                                 <p className="text-center text-xl md:text-4xl text-white ">
-                                    Ministerio Jesus Pan de Vida
+                                    Ministerio Internacional Jesus Pan de Vida
                                 </p>
                             </div>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide >
-                        <div className="min-h-screen w-full flex justify-center items-center bg-cover bg-center bg-[url('/caridad3.jpg')] ">
+                        <div className="min-h-screen w-full flex justify-center items-center bg-cover bg-center bg-[url('/back3.jpg')] ">
 
                             <div className="p-8 bg-gray-600/50 rounded-2xl sm:m-0 mx-8 ">
                                 <p className="text-center text-xl md:text-4xl text-white ">
-                                    Ministerio Jesus Pan de Vida
+                                    Ministerio Internacional Jesus Pan de Vida
                                 </p>
                             </div>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <div className="min-h-screen flex justify-center items-center bg-cover bg-center bg-[url('/caridad4.jpg')] ">
+                        <div className="min-h-screen flex justify-center items-center bg-cover bg-center bg-[url('/back4.jpg')] ">
 
                             <div className="p-8 bg-gray-600/50 rounded-2xl sm:m-0 mx-8 ">
                                 <p className="text-center text-xl md:text-4xl text-white ">
-                                    Ministerio Jesus Pan de Vida
+                                    Ministerio Internacional Jesus Pan de Vida
                                 </p>
                             </div>
                         </div>
