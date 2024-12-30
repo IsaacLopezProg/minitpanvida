@@ -3,16 +3,19 @@
 import React,{useContext} from 'react';
 import { IdiomaContext } from "../../context/IdiomaContext"
 
-const images = [
-  '/fotos1.jpg',
-  '/fotos2.jpg',
-  '/fotos3.jpg',
-  '/fotos4.jpg',
-  '/fotos5.jpg',
-  '/fotos6.jpg',
-];
+// const images = [
+//   '/fotos1.jpg',
+//   '/fotos2.jpg',
+//   '/fotos3.jpg',
+//   '/fotos4.jpg',
+//   '/fotos5.jpg',
+//   '/fotos6.jpg',
+// ];
 
-function Galeria() {
+function Galeria({contenido}) {
+
+  // console.log(contenido[0].data.images);
+  let images = contenido[0].data.images;
 
   const idioma = useContext(IdiomaContext);
 
@@ -34,7 +37,7 @@ function Galeria() {
           >
             <img
               className="block mx-auto h-full object-cover object-center rounded-lg shadow-md"
-              src={image}
+              src={image.image}
               alt={`Imagen ${index + 1}`}
             />
           </div>
@@ -45,3 +48,28 @@ function Galeria() {
 }
 
 export default Galeria;
+
+
+// export async function getServerSideProps(){
+
+//   const apikey = process.env.BUILDERIO_PRIVATE_KEY;
+//   // const api = await fetch(`https://cdn.builder.io/api/v2/content/post?apiKey=${apikey}&limit=10`);
+//   // const api = await fetch(`https://cdn.builder.io/api/v2/content/post?apiKey=${apikey}&fields=id,data.tema,data.descripcion,data.video,createdDate&limit=100`);
+//   const api = await fetch(`https://cdn.builder.io/api/v3/content/fotos?apiKey=2adc8e18de214ccb98d3fb942b5d8410&fields=data.images`);
+//   // https://cdn.builder.io/api/v3/content/fotos?apiKey=2adc8e18de214ccb98d3fb942b5d8410&fields=data.images
+
+//   const res = await api.json();
+//   // const posts = res.results;
+//   const posts = res.results;
+  
+
+//   console.log(res.results.images);
+//   console.log(posts);
+
+//     return {
+//         props: {
+//             posts
+//             // res
+//         }
+//     }
+//   }
